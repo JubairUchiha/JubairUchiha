@@ -15,7 +15,7 @@
    <p >🔭 I’m currently working on <b>HTML</b></p>
    <p >🌱 I’m currently learning <b>HTML & CSS</b></p>
    <p >👯 I’m looking to collaborate on <b>Minecraft Modpack</b></p>
-   <p >📫 How to reach me <a href="mailto:JubairAhammed.Official@gmail.com">JubairAhammed.Official@gmail.com</a></p>
+   <p >📫 How to reach me <a href="mailto:JubairAhammed.Official@gmail.com"><b>JubairAhammed.Official@gmail.com</b></a></p>
    <p >⚡ Fun fact <b>I am The Ghost Of The Uchiha</b></p>
 
 </div>
