@@ -23,7 +23,7 @@
 <!-- Visit Count -->
 <div align="center">
 
-   [![](https://visitcount.itsvg.in/api?id=JubairUchiha&icon=2&color=3)](https://visitcount.itsvg.in)
+   ![Visit Count](https://komarev.com/ghpvc/?username=JubairUchiha&color=brightgreen)
 
 </div>
 
@@ -86,7 +86,7 @@
 <div align="center">
  
    ![📊 GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=JubairUchiha&theme=chartreuse-dark&hide_border=false)
-   ![📊 GitHub Stats](https://github-readme-stats.vercel.app/api?username=JubairUchiha&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)
+   ![📊 GitHub Stats](https://github-readme-stats.vercel.app/api?username=JubairUchiha&theme=chartreuse-dark&hide_border=false&count_private=false)
    
 </div>
 
