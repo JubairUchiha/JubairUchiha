@@ -32,15 +32,15 @@
 
 <div align="center">
 
-   <a href="https://www.facebook.com/JubairUchiha" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Jubair Ahammed" height="45px"></a>
-   <a href="https://www.linkedin.com/in/Jubair-Ahammed" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Jubair Ahammed" height="45px"></a>
+   <a href="https://www.facebook.com/JubairUchiha" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Jubair Ahammed" height="45px"></a>
+   <a href="https://www.linkedin.com/in/Jubair-Ahammed" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Jubair Ahammed" height="45px"></a>
    <a href="https://www.behance.net/Jubair-Ahammed" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="Jubair Ahammed" height="45px"></a>
-   <a href="https://twitter.com/Jubair__Ahammed" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Jubair Ahammed" height="45px"></a>
+   <a href="https://twitter.com/Jubair__Ahammed" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Jubair Ahammed" height="45px"></a>
    <a href="https://medium.com/@Jubair-Ahammed" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Jubair Ahammed" height="45px"></a>
-   <a href="https://stackoverflow.com/users/20461938/Jubair-Ahammed" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/11023/11023656.png" alt="Jubair Ahammed" height="45px"></a>
-   <a href="https://www.reddit.com/user/JubairAhammed" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" alt="Jubair Ahammed" height="45px"></a>
-   <a href="https://www.pinterest.com/Jubair__Ahammed/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/220/220214.png" alt="Jubair Ahammed" height="45px"></a>
-   <a href="https://dribbble.com/Jubair-Ahammed/about" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968685.png" alt="Jubair Ahammed" height="45px"></a>
+   <a href="https://stackoverflow.com/users/20461938/Jubair-Ahammed" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="Jubair Ahammed" height="45px"></a>
+   <a href="https://www.reddit.com/user/JubairAhammed" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" alt="Jubair Ahammed" height="45px"></a>
+   <a href="https://www.pinterest.com/Jubair__Ahammed/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" alt="Jubair Ahammed" height="45px"></a>
+   <a href="https://dribbble.com/Jubair-Ahammed/about" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="Jubair Ahammed" height="45px"></a>
    
 </div>
 
@@ -61,8 +61,8 @@
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="45px"></a>
    <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="Afer Effects" height="45px"></a>
    <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" height="45px"></a>
+   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" height="45px"></a>
    <a href="https://helpx.adobe.com/xd/get-started.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" alt="Xd" height="45px"></a>
-   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="Illustrator" height="45px"></a>
    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="45px"></a>
    <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" height="45px"></a>
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="45px"></a>
